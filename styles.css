@@ -1,0 +1,22 @@
+h1{
+    Text-Align:center;
+    color:blue;
+    border:4px solid;
+    border-color:red;
+}
+h2{
+    padding-left:50px;
+}
+h3{
+    padding-left:150px;
+}
+img{
+    border-radius:50px;
+    width:300px;
+}
+h2{
+    font-family: 'Titillium Web', sans-serif;
+}
+body{
+    background-color:violet;
+}
